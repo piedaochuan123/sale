@@ -1,0 +1,20 @@
+Number.MIN_VALUE 最小数
+
+parseInt 和Number的区别
+
+reverse，sort
+
+getElementsByName
+所有的迭代函数都有三个参数，item，index，array
+
+caller 返回函数的调用对象
+
+转型函数，构造函数
+
+charAt
+
+三个基于子字符串创建新字符串的方法：slice()、substr()和 substring()。
+
+闭包里面保存html元素就无法被销毁，所以最后将其设置为null。
+
+2.sort下面的比较函数
